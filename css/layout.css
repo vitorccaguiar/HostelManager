@@ -1,3 +1,7 @@
+#marca {
+	text-decoration: none;
+}
+
 .col1, .col2, .col3, .cols {
 	float:left;
 }
